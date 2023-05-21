@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Khushi-74's GitHub | Languages Over Time](https://stats.quine.sh/Khushi-74/languages-over-time?theme=light)](https://quine.sh)
 <!--
 **Khushi-74/Khushi-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
